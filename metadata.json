@@ -1,0 +1,6 @@
+{
+  "name": "كود ترجم - Code Targem",
+  "description": "منصة سحابية متطورة لبناء الألعاب والتطبيقات وتوليد رسوماتها وأكوادها تلقائياً بأعلى معايير الأمان، مع التوقيع الرقمي والباركود المباشر.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
